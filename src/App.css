@@ -1,0 +1,16 @@
+.img{
+    height: 150px;
+    width: auto;
+}
+
+#facebutton > button:hover{
+    background-color: green
+}
+
+.linkItem{
+    text-decoration: none;
+    color: black;
+}
+body a:hover{
+    text-decoration: none;
+}
